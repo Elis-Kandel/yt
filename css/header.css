@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    margin-top: 2px;
+    height: 55px;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.left-section{
+    width: 150px;
+}
+.middle-section{
+    flex:1;
+}
+.right-section{
+    
+}
